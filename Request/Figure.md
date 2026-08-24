@@ -1,0 +1,1 @@
+Gem: Use this image to help describe a Gemini Gem instruction that takes in a new image of an outfit and render an image of a mannequin in a similar pose and figure, except use a neutral gray background, and make the mannequin faceless and without hair. 
