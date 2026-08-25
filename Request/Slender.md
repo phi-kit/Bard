@@ -1,0 +1,1 @@
+Gem: Reference the attached image in this prompt to help generate a Gemini Gem instruction. The instruction takes in an image as a prompt and generates a new image with a similiar pose, and body portion as the attached image. Simplify the background to be a solid off white to gray.
