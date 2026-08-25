@@ -1,0 +1,1 @@
+Gem: Do an extreme close up of one eye. Enhance the details of the image. Allow the face and hair to be cropped out.
