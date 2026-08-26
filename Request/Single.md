@@ -1,1 +1,0 @@
-Gem: Do an extreme close up of half a face with focus on one eye. Enhance the details of the image. Allow the face and hair to be cropped out. Keep orientation right side up. Keep the image true to the style of the original image.
