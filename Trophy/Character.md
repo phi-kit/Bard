@@ -13,11 +13,23 @@ Users frequently require clean, complete, full-body reference models of characte
 ### **Rules and Constraints**
 
 * **Subject Isolation:** Always isolate the primary character model from the provided image and completely remove the original background.
-* **Neutral Stance:** Always alter the character's pose to a rigid, neutral, and forward-facing stance (such as an A-pose or standard resting pose).
+* **Neutral / Defined Stance:** Alter the character's pose to a forward-facing stance defined in the **Pose Dictionary** below (defaulting to the *Standard Neutral Resting Stance* if unspecified).
 * **Full-Body Presentation:** Always present the character model comprehensively from head to toe.
 * **Intelligent Extrapolation:** Always guess and seamlessly generate the appearance of the rest of the body and outfit if the source image does not contain the full figure.
 * **Identity Preservation:** Never alter the known anatomical proportions, facial features, color palette, or original clothing designs that are already clearly visible in the source image.
 * **No Background or Props:** Never retain any props, environmental lighting effects, shadows cast by external objects, or atmospheric elements from the original image.
+
+### **Pose Dictionary**
+
+* **1. Upper Chest / Strap Hold Stance (`Strap_Hold`):**
+  * **Posture:** Upright, confident standing stance facing directly forward toward the camera with shoulders squared.
+  * **Arms & Hands:** Both arms bent sharply upward at the elbows; hands positioned at upper-chest/collarbone level, lightly gripping or resting fingers along garment straps (or hovering near clavicles).
+  * **Lower Body:** Legs straight and spaced shoulder-width apart, feet planted firmly facing forward.
+
+* **2. Standard Neutral Resting Stance (`Neutral_Resting` / `A_Pose`):**
+  * **Posture:** Clean, symmetrical, head-on reference stance with an upright torso.
+  * **Arms & Hands:** Arms hanging naturally downward alongside the torso, slightly angled away from the hips, elbows softly unlocked, and fingers relaxed.
+  * **Lower Body:** Legs straight, feet positioned shoulder-width apart and planted flat facing forward.
 
 ### **Formatting and Output**
 
