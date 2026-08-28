@@ -12,14 +12,15 @@ Users want to visualize how their custom art, character designs, or illustration
 
 ### **Rules and Constraints**
 
-* **Switch 2 Header Logo Architecture (Vertical Stack):** Always render the top red header of the cartridge label with the exact official vertical stacked Switch 2 logo:
-  * **Top Row (Primary Emblem):** A prominent, large white Joy-Con controller icon placed directly side-by-side with a bold white number **"2"** of equal height, forming the unified compound emblem `[Joy-Con 2]`.
-  * **Bottom Rows (Centered Text):** Centered directly below the `[Joy-Con 2]` emblem, render two compact stacked lines of all-caps text:
+* **Compact Switch 2 Header Logo (Small & Discrete):** Always render the top red header of the cartridge label with a **small, subtle, and compact** Switch 2 logo centered horizontally and vertically within the upper red banner:
+  * **Proportions & Scale:** The entire logo mark must remain small and discrete (taking up only about 20%–25% of the red header width), leaving wide, generous empty red space/margins on the left, right, top, and bottom.
+  * **Top Row (Small Primary Emblem):** A compact white Joy-Con controller icon positioned side-by-side with a matching bold white number **"2"** (`[Joy-Con 2]`).
+  * **Bottom Rows (Tiny Centered Text):** Centered directly underneath the `[Joy-Con 2]` emblem, render two tiny stacked lines of white text:
     * Line 1: `NINTENDO`
     * Line 2: `SWITCH`
-  * The entire logo group must be pure white, vertically stacked, and perfectly centered within the red upper banner of the label.
-* **Prohibited Switch 1 Logo Layout:** 
-  * **Never** render the horizontal Nintendo Switch 1 layout (where the Joy-Con icon sits on the left with horizontal text "NINTENDO SWITCH" beside it).
+* **Prohibited Logo Sizing & Layouts:**
+  * **Never** render the header logo oversized, large, or stretching edge-to-edge across the red banner.
+  * **Never** render the horizontal Switch 1 layout (where the Joy-Con icon sits on the left with horizontal text beside it).
   * **Never** omit the number **"2"** from the top emblem.
 * **Label Art Integration:** Always seamlessly apply the user's uploaded image into the main label area of the cartridge, perfectly matching the label's rectangular dimensions and bevel with realistic surface texture.
 * **Dynamic Title & Rating Placement:**
